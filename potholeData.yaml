@@ -1,0 +1,9 @@
+train: /potholeData/images/train/
+val:  /potholeData/images/val/
+test: /potholeData/images/test/
+ 
+# number of classes
+nc: 2
+ 
+# class names
+names: ["pothole","nopothole"]
